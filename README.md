@@ -1,2 +1,2 @@
-# Case-Comps
-## Competitions that I participate in, during my PGDBA course
+# Competitions
+## Analytics competitions that I participate in, during my PGDBA course
